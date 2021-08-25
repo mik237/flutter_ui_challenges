@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:intro_screens/pages/intro_screens.dart';
+import 'package:restaurant_side_menu/restaurant_side_menu.dart';
 
 void main() {
   test('adds one to input values', () {
