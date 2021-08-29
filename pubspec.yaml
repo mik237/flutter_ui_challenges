@@ -55,6 +55,12 @@ flutter:
     - assets/1.png
     - assets/2.png
     - assets/3.png
+    - Avocado_Salad.png
+    - cart.png
+    - Chicken_Hamburger.png
+    - Dragon_Fruits_Salad.png
+    - menu.png
+    - Salmon_Sushi.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:intro_screens/pages.dart';
 import 'package:restaurant_side_menu/home/home_screen.dart';
 
 void main() {
