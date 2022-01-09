@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:restaurant_side_menu/config/app_colors.dart';
 import 'package:restaurant_side_menu/detail/food_detail.dart';
+import 'package:restaurant_side_menu/detail/restaurant_detail_screen.dart';
 import 'package:restaurant_side_menu/models/food.dart';
 
 class FoodItem extends StatelessWidget {
@@ -15,6 +16,7 @@ class FoodItem extends StatelessWidget {
       onTap: (){
         Navigator.push(context, MaterialPageRoute(builder: (_){
           return FoodDetail(food: food,);
+          // return RestaurantDetail();
         }));
       },
       child: Container(
