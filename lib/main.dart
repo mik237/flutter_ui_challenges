@@ -9,6 +9,7 @@ import 'staggered_animation.dart';
 import 'custom_battom_navigation_bar/home_page.dart';
 import 'healthy_food_ui.dart';
 import 'slivers_demo/slivers_demo.dart';
+import 'story_carosel/story_carosel.dart';
 // import 'package:webview_flutter/webview_flutter.dart';
 // import 'package:webview_flutter_web/webview_flutter_web.dart';
 
@@ -39,7 +40,8 @@ class MyApp extends StatelessWidget {
       // home: WebviewSample(),
       // home: PrinterDemo(),
       // home: StaggerDemo(),
-      home: CookieStoreHome(),
+      // home: CookieStoreHome(),
+      home: StoryCarosel(),
     );
   }
 }

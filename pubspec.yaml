@@ -104,6 +104,18 @@ flutter:
     - family: Varela
       fonts:
         - asset: assets/VarelaRound-Regular.ttf
+    - family: CustomIcons
+      fonts:
+        - asset: assets/custom_icons.ttf
+    - family: Calibre-Semibold
+      fonts:
+        - asset: assets/Calibre Semibold.otf
+    - family: SF-Pro-Test-Regular
+      fonts:
+        - asset: assets/SF-Pro-Text-Regular.otf
+    - family: SF-Pro-Text-Bold
+      fonts:
+        - asset: assets/SF-Pro-Text-Bold.otf
 #     - family: Schyler
 #       fonts:
   #       - asset: fonts/Schyler-Regular.ttf
